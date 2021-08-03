@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [iNavFlight/inav-configurator](https://github.com/iNavFlight/inav-configurator) ([3.0.1](https://github.com/iNavFlight/inav-configurator/releases/tag/3.0.1), 4 weeks ago) - 
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([3.0.1](https://github.com/iNavFlight/inav/releases/tag/3.0.1), 4 weeks ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav-configurator](https://github.com/iNavFlight/inav-configurator) ([3.0.1](https://github.com/iNavFlight/inav-configurator/releases/tag/3.0.1), 1 month ago) - 
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([3.0.1](https://github.com/iNavFlight/inav/releases/tag/3.0.1), 1 month ago) - INAV: Navigation-enabled flight control software
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) ([Copter-4.0.3](https://github.com/ArduPilot/ardupilot/releases/tag/Copter-4.0.3), 1 year ago) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 
 #### 👯 Check out some of my recent followers
