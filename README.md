@@ -18,7 +18,6 @@
 
 #### 👯 Check out some of my recent followers
 
-- [Novusvetus](https://github.com/Novusvetus)
 - [UltraWhiteAngel](https://github.com/UltraWhiteAngel)
 - [albertocopter](https://github.com/albertocopter)
 - [DusKing1](https://github.com/DusKing1)
