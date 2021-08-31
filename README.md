@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (today)
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors (4 weeks ago)
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source (1 month ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (3 months ago)
 - [ArduPilot/ArduConfigurator](https://github.com/ArduPilot/ArduConfigurator) -  (11 months ago)
 - [iNavFlight/inav-configurator](https://github.com/iNavFlight/inav-configurator) -  (11 months ago)
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
