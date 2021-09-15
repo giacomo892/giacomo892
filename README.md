@@ -11,6 +11,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [iNavFlight/inav-configurator](https://github.com/iNavFlight/inav-configurator) ([3.0.2](https://github.com/iNavFlight/inav-configurator/releases/tag/3.0.2), today) - 
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([3.0.2](https://github.com/iNavFlight/inav/releases/tag/3.0.2), today) - INAV: Navigation-enabled flight control software
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.74](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.74), 2 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) ([Copter-4.0.3](https://github.com/ArduPilot/ardupilot/releases/tag/Copter-4.0.3), 2 years ago) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 
