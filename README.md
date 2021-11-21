@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 5 days ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
+- [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.80](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.80), 6 days ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [ArduCustom/ardupilot](https://github.com/ArduCustom/ardupilot) ([custom-v6.1](https://github.com/ArduCustom/ardupilot/releases/tag/custom-v6.1), 1 week ago) - ArduPilot custom branches
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([4.0.0-RC1](https://github.com/iNavFlight/inav/releases/tag/4.0.0-RC1), 1 week ago) - INAV: Navigation-enabled flight control software
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ([1.10.2](https://github.com/louislam/uptime-kuma/releases/tag/1.10.2), 1 week ago) - A fancy self-hosted monitoring tool
