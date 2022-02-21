@@ -11,11 +11,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) ([Rover-4.1.5](https://github.com/ArduPilot/ardupilot/releases/tag/Rover-4.1.5), 1 day ago) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.85](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.85), 6 days ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([4.1.0](https://github.com/iNavFlight/inav/releases/tag/4.1.0), 1 week ago) - INAV: Navigation-enabled flight control software
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ([1.11.4](https://github.com/louislam/uptime-kuma/releases/tag/1.11.4), 1 week ago) - A fancy self-hosted monitoring tool
 - [ArduCustom/ardupilot](https://github.com/ArduCustom/ardupilot) ([light-v9.0](https://github.com/ArduCustom/ardupilot/releases/tag/light-v9.0), 1 week ago) - ArduPilot custom branches
+- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) ([ArduPlane-stable](https://github.com/ArduPilot/ardupilot/releases/tag/ArduPlane-stable), 4 months ago) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 
 #### 👯 Check out some of my recent followers
 
