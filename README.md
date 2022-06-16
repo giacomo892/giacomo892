@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ([1.17.0-beta.0](https://github.com/louislam/uptime-kuma/releases/tag/1.17.0-beta.0), 2 days ago) - A fancy self-hosted monitoring tool
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ([1.17.0-beta.1](https://github.com/louislam/uptime-kuma/releases/tag/1.17.0-beta.1), today) - A fancy self-hosted monitoring tool
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([5.0.0-RC3](https://github.com/iNavFlight/inav/releases/tag/5.0.0-RC3), 6 days ago) - INAV: Navigation-enabled flight control software
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) ([Rover-4.2.1](https://github.com/ArduPilot/ardupilot/releases/tag/Rover-4.2.1), 1 week ago) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [ArduCustom/ardupilot](https://github.com/ArduCustom/ardupilot) ([light-v10.2](https://github.com/ArduCustom/ardupilot/releases/tag/light-v10.2), 3 weeks ago) - ArduPilot custom branches
