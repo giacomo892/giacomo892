@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) ([Plane-4.2.2](https://github.com/ArduPilot/ardupilot/releases/tag/Plane-4.2.2), today) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ([1.17.1](https://github.com/louislam/uptime-kuma/releases/tag/1.17.1), 1 day ago) - A fancy self-hosted monitoring tool
-- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) ([Rover-4.2.1](https://github.com/ArduPilot/ardupilot/releases/tag/Rover-4.2.1), 2 weeks ago) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [ArduCustom/ardupilot](https://github.com/ArduCustom/ardupilot) ([light-v10.2](https://github.com/ArduCustom/ardupilot/releases/tag/light-v10.2), 4 weeks ago) - ArduPilot custom branches
 - [AlkaMotors/AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) ([v1.88](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases/tag/v1.88), 3 months ago) - Firmware for stm32f051 based speed controllers for use with mutirotors
 
