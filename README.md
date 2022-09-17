@@ -14,7 +14,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [UltraWhiteAngel](https://github.com/UltraWhiteAngel)
+- [Tanmax-Payne](https://github.com/Tanmax-Payne)
 - [albertocopter](https://github.com/albertocopter)
 - [DusKing1](https://github.com/DusKing1)
 - [Linjieqiang](https://github.com/Linjieqiang)
