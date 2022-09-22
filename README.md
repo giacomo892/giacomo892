@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [ArduCustom/ardupilot](https://github.com/ArduCustom/ardupilot) - ArduPilot custom branches (3 months ago)
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (7 months ago)
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (8 months ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
