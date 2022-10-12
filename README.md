@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ([1.18.5](https://github.com/louislam/uptime-kuma/releases/tag/1.18.5), 1 day ago) - A fancy self-hosted monitoring tool
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ([1.18.5](https://github.com/louislam/uptime-kuma/releases/tag/1.18.5), 2 days ago) - A fancy self-hosted monitoring tool
 - [iNavFlight/inav](https://github.com/iNavFlight/inav) ([5.1.0](https://github.com/iNavFlight/inav/releases/tag/5.1.0), 1 month ago) - INAV: Navigation-enabled flight control software
-- [ArduCustom/ardupilot](https://github.com/ArduCustom/ardupilot) ([custom-v10.3](https://github.com/ArduCustom/ardupilot/releases/tag/custom-v10.3), 2 months ago) - ArduPilot custom branches
+- [ArduCustom/ardupilot](https://github.com/ArduCustom/ardupilot) ([custom-v10.3](https://github.com/ArduCustom/ardupilot/releases/tag/custom-v10.3), 3 months ago) - ArduPilot custom branches
 
 #### 👯 Check out some of my recent followers
 
