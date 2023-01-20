@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 - [ArduCustom/ardupilot](https://github.com/ArduCustom/ardupilot) - ArduPilot custom branches (7 months ago)
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (11 months ago)
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [ArduCustom/ardupilot](https://github.com/ArduCustom/ardupilot) ([custom-v11.0](https://github.com/ArduCustom/ardupilot/releases/tag/custom-v11.0), 2 weeks ago) - ArduPilot custom branches
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.0.0-FP1](https://github.com/iNavFlight/inav/releases/tag/6.0.0-FP1), 2 months ago) - INAV: Navigation-enabled flight control software
+- [iNavFlight/inav](https://github.com/iNavFlight/inav) ([6.0.0-FP1](https://github.com/iNavFlight/inav/releases/tag/6.0.0-FP1), 3 months ago) - INAV: Navigation-enabled flight control software
 
 #### 👯 Check out some of my recent followers
 
