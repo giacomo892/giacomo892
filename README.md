@@ -3,7 +3,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [ArduCustom/ardupilot](https://github.com/ArduCustom/ardupilot) - ArduPilot custom branches (8 months ago)
-- [iNavFlight/inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
