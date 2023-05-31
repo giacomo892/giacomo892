@@ -6,7 +6,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ArduCustom/ardupilot](https://github.com/ArduCustom/ardupilot) ([light-v11.1](https://github.com/ArduCustom/ardupilot/releases/tag/light-v11.1), 2 months ago) - ArduPilot custom branches
 
 #### 👯 Check out some of my recent followers
 
